@@ -11,9 +11,13 @@ WANNG: 文本主要是对VQA整个任务做一个综述。信息来源包括但�
 + Visual Question Answering: Datasets, Algorithms, and Future Challenges [^5]
 
 [^1]: Visual Question Answering using Deep Learning: A Survey and Performance Analysis URL:https://arxiv.org/abs/1909.01860
+
 [^2]: Visual Question Answering: A Survey of Methods and Datasets URL:https://arxiv.org/abs/1607.05910
+
 [^3]: Survey of Visual Question Answering: Datasets and Techniques URL:https://arxiv.org/abs/1705.03865
+
 [^4]: Github: https://github.com/shengnian/Algorithm_Interview_Notes-Chinese/blob/master/B-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/D-%E8%A7%86%E8%A7%89%E9%97%AE%E7%AD%94-1_%E7%BB%BC%E8%BF%B0.md
+
 [^5]: Visual Question Answering: Datasets, Algorithms, and Future Challenges URL: https://arxiv.org/abs/1610.01465
 
 目录 content
