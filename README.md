@@ -1,7 +1,7 @@
 从 视觉问答 Visual Question Answering（VQA）到 多模态表征 Multimodal representation learning 简单综述
 ======
 
-于2022.2.24完成**第二版**的撰写，并且更新在了Github。
+于2022.2.24完成**第三版**的撰写，并且更新在了Github。
 **可以自行下载pdf版本，在此就不放出Markdown版本了。**
 
 + 增加了2021-2022的部分模型
